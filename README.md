@@ -1,5 +1,5 @@
 # watzappy
 
-Old repo (2018)
+Old repo (2018). A (ugly-ridiculous-noob) clone of Whatsapp, created just for learning and testing purposes.
 
-Haven't updated the app for a very long time ...
+(haven't updated the app for a very long time... )
